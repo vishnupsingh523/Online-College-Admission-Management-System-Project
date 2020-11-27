@@ -1,6 +1,7 @@
 # Online-College-Admission-Management-System-Project
 [![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/Shashwatsingh22/Online-College-Admission-Management-System-Project.git)
 <img src="https://img.shields.io/badge/made%20with-python-yellowgreen" />
+<img src="https://img.shields.io/github/contributors/vishnupsingh523/Online-College-Admission-Management-System-Project" />
 
 *Online-College-Admission-System is an software based GUI tool written in Python by the use an Module that is tkinter and the data which is gentrated by the this software will saved in the Database (So, I used Mysql)....* 
 
